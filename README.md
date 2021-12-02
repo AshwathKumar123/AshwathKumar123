@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VyzicGithub
 - 👀 I’m interested in Linux and Gaming
-- 🌱 I’m currently C
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on a polished Linux distro
 - 📫 How to reach me 
    Message me on Discord at Vyzic#0978
